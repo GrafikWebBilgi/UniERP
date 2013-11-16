@@ -1,7 +1,4 @@
 <?php
-
-//Class ın harfleri İlk harf buyuk olur
-
 class Kisi {
     public $baslangicYili;
     public $isim;
